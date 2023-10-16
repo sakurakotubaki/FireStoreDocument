@@ -42,12 +42,12 @@ Firestoreは、ドキュメントとコレクションという構造体を使�
 ## Firestoreのスクリーンショット
 こんな感じでデータ型を定義します。
 
-<img src="image/../1.png" alt="1">
-<img src="image/../2.png" alt="2">
-<img src="image/../3.png" alt="3">
+<img src="image/1.png" alt="1.png" />
+<img src="image/2.png" alt="2.png" />
+<img src="image/3.png" alt="3.png" />
 
-**コレクション**
-<img src="image/../4.png" alt="4">
+**これはコレクションの写真**
+<img src="image/4.png" alt="4.png" />
 
-**サブコレクション**
-<img src="image/../5.png" alt="5">
+**これはサブコレクションの写真**
+<img src="image/5.png" alt="5.png" />
